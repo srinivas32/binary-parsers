@@ -1,3 +1,6 @@
+arch:
+ - amd64
+ - ppc64le
 # NB: don't set `language: haskell` here
 
 # explicitly request legacy non-sudo based build environment
